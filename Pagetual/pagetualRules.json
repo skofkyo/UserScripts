@@ -2265,7 +2265,7 @@
         "example": "https://anime1.me/",
         "url": "^https?://anime1\\.me/",
         "nextLink": "a.next",
-        "pageElement": "#table-list>tbody"
+        "pageElement": "#table-list>tbody>tr"
     },
     {
         "name": "233 动漫 - 排行榜",
